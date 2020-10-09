@@ -2,7 +2,7 @@
   "posts": [
     {
       "id": "1",
-      "title": "Post One",
+      "title": "Post One up",
       "body": "This is the post body",
       "publishedAt": "10-01-2020"
     },
@@ -13,8 +13,8 @@
       "publishedAt": "10-01-2020"
     },
     {
-      "title": "Rea",
-      "body": "oooooooo",
+      "title": "Rea up",
+      "body": "ttttttt updated",
       "publishedAt": "2020-10-10",
       "id": "4jugTF9"
     }
